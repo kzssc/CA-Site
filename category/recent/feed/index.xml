@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recent &#8211; Clifford Alumni</title>
+	<atom:link href="https://ca/category/recent/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test.cliffordalumni.com/</link>
+	<description>一时祈福人，一世祈福人。</description>
+	<lastBuildDate>Mon, 19 Nov 2018 19:36:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://test.cliffordalumni.com/wp-content/uploads/2018/11/cropped-CA-LOGO-32x32.jpg</url>
+	<title>Recent &#8211; Clifford Alumni</title>
+	<link>https://test.cliffordalumni.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>181122 Speakers Event</title>
+		<link>https://test.cliffordalumni.com/2018/11/19/181122-speakers-event/</link>
+		<comments>https://test.cliffordalumni.com/2018/11/19/181122-speakers-event/#respond</comments>
+		<pubDate>Mon, 19 Nov 2018 19:35:40 +0000</pubDate>
+		<dc:creator><![CDATA[C.Zhang]]></dc:creator>
+				<category><![CDATA[Recent]]></category>
+
+		<guid isPermaLink="false">https://test.cliffordalumni.com/?p=143</guid>
+		<description><![CDATA[Clifford Alumni祈福校友会将于11月22日下周四晚7:00-8:30在英校中学部212教室举办本学期第一次校友经验分享活动。届时会有两位在美国及英国留学的校友回校与同学们分享他们的申请过程和留学体验。欢迎有意向出国留学的同学们踊跃参加！ &#160;]]></description>
+				<content:encoded><![CDATA[<p>Clifford Alumni祈福校友会将于11月22日下周四晚7:00-8:30在英校中学部212教室举办本学期第一次校友经验分享活动。届时会有两位在美国及英国留学的校友回校与同学们分享他们的申请过程和留学体验。欢迎有意向出国留学的同学们踊跃参加！</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-144 size-full" src="https://test.cliffordalumni.com/wp-content/uploads/2018/11/181122-Speakers-Event-Poster.jpeg" alt="" width="2479" height="3508" srcset="https://test.cliffordalumni.com/wp-content/uploads/2018/11/181122-Speakers-Event-Poster.jpeg 2479w, https://test.cliffordalumni.com/wp-content/uploads/2018/11/181122-Speakers-Event-Poster-212x300.jpeg 212w, https://test.cliffordalumni.com/wp-content/uploads/2018/11/181122-Speakers-Event-Poster-768x1087.jpeg 768w, https://test.cliffordalumni.com/wp-content/uploads/2018/11/181122-Speakers-Event-Poster-724x1024.jpeg 724w" sizes="(max-width: 2479px) 100vw, 2479px" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://test.cliffordalumni.com/2018/11/19/181122-speakers-event/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

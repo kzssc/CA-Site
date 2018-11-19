@@ -12,7 +12,7 @@
 	<atom:link href="https://ca/category/ca/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test.cliffordalumni.com/</link>
 	<description>一时祈福人，一世祈福人。</description>
-	<lastBuildDate>Mon, 19 Nov 2018 19:10:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Nov 2018 19:36:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -63,8 +63,8 @@
 		</item>
 		<item>
 		<title>CA 章程</title>
-		<link>https://test.cliffordalumni.com/2018/11/19/ca-%e7%ab%a0%e7%a8%8b/</link>
-		<comments>https://test.cliffordalumni.com/2018/11/19/ca-%e7%ab%a0%e7%a8%8b/#respond</comments>
+		<link>https://test.cliffordalumni.com/2018/11/19/ca-rop/</link>
+		<comments>https://test.cliffordalumni.com/2018/11/19/ca-rop/#respond</comments>
 		<pubDate>Mon, 19 Nov 2018 18:31:58 +0000</pubDate>
 		<dc:creator><![CDATA[C.Zhang]]></dc:creator>
 				<category><![CDATA[CA]]></category>
@@ -73,7 +73,7 @@
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<a href="https://test.cliffordalumni.com/wp-content/uploads/2018/11/广州祈福英语实验学校校友会章程v1.pdf" class="pdfemb-viewer" style="" data-width="max" data-height="max"  data-toolbar="bottom" data-toolbar-fixed="off">广州祈福英语实验学校校友会章程v1<br/></a>
 ]]></content:encoded>
-			<wfw:commentRss>https://test.cliffordalumni.com/2018/11/19/ca-%e7%ab%a0%e7%a8%8b/feed/</wfw:commentRss>
+			<wfw:commentRss>https://test.cliffordalumni.com/2018/11/19/ca-rop/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
