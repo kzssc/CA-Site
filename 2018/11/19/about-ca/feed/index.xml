@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments on: Sample Page</title>
-	<atom:link href="https://ca/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://test.cliffordalumni.com/</link>
+	<title>Comments on: About CA(S)</title>
+	<atom:link href="https://ca/2018/11/19/about-ca/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test.cliffordalumni.com/2018/11/19/about-ca/</link>
 	<description>一时祈福人，一世祈福人。</description>
-	<lastBuildDate>Mon, 19 Nov 2018 18:12:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Nov 2018 18:13:02 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
