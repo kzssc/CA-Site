@@ -12,7 +12,7 @@
 	<atom:link href="https://ca/author/vpchris/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test.cliffordalumni.com/</link>
 	<description>一时祈福人，一世祈福人。</description>
-	<lastBuildDate>Mon, 19 Nov 2018 16:42:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Nov 2018 17:35:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,19 +26,35 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
-		<link>https://test.cliffordalumni.com/2018/08/06/hello-world/</link>
-		<comments>https://test.cliffordalumni.com/2018/08/06/hello-world/#comments</comments>
-		<pubDate>Mon, 06 Aug 2018 08:30:34 +0000</pubDate>
+		<title>Aimee Nie 聂瑜</title>
+		<link>https://test.cliffordalumni.com/2018/11/19/aimee-nie/</link>
+		<comments>https://test.cliffordalumni.com/2018/11/19/aimee-nie/#respond</comments>
+		<pubDate>Mon, 19 Nov 2018 17:35:07 +0000</pubDate>
 		<dc:creator><![CDATA[vpchris]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[CAS]]></category>
 
-		<guid isPermaLink="false">https://test.cliffordalumni.com/?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+		<guid isPermaLink="false">https://test.cliffordalumni.com/?p=56</guid>
+		<description><![CDATA[Time spent in Clifford 2002-2011 Current University Wake Forest University / 维克森林大学 Major Accounting / 会计 Mathematical Statistics / 统计 Work Experience Audit Intern, EY China / 中国安永 Tax intern, Deloitte China / 中国德勤 Consulting intern, pwc China / 中国普华永道 Intern, GF Bank China / 中国广发银行 Intern, GF Securities China /中国广发证券 Contact Information a.nie (AT) cliffordalumni.com]]></description>
+				<content:encoded><![CDATA[<h6>Time spent in Clifford</h6>
+<p>2002-2011</p>
+<h6>Current University</h6>
+<p>Wake Forest University / 维克森林大学</p>
+<h6>Major</h6>
+<p>Accounting / 会计</p>
+<p>Mathematical Statistics / 统计</p>
+<h6>Work Experience</h6>
+<ul>
+<li>Audit Intern, EY China / 中国安永</li>
+<li>Tax intern, Deloitte China / 中国德勤</li>
+<li>Consulting intern, pwc China / 中国普华永道</li>
+<li>Intern, GF Bank China / 中国广发银行</li>
+<li>Intern, GF Securities China /中国广发证券</li>
+</ul>
+<h6>Contact Information</h6>
+<p>a.nie (AT) cliffordalumni.com</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://test.cliffordalumni.com/2018/08/06/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+			<wfw:commentRss>https://test.cliffordalumni.com/2018/11/19/aimee-nie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
